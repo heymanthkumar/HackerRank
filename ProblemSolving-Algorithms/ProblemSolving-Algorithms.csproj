@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CompareTheTriplets.cs" />
     <Compile Include="SimpleArraySum.cs" />
     <Compile Include="SolveMeFirst.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
