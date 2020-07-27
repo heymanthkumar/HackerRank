@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_30DaysOfCode.IntroToConditionalStatements</StartupObject>
+    <StartupObject>_30DaysOfCode.ClassvsInstance</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassvsInstance.cs" />
     <Compile Include="IntroToConditionalStatements.cs" />
     <Compile Include="Operators.cs" />
     <Compile Include="DataTypes.cs" />
