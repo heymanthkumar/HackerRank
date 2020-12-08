@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ProblemSolving_Algorithms.MiniMaxSum</StartupObject>
+    <StartupObject>ProblemSolving_Algorithms.BirthdayCakeCandles</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AVeryBigSum.cs" />
+    <Compile Include="BirthdayCakeCandles.cs" />
     <Compile Include="CompareTheTriplets.cs" />
     <Compile Include="DiagonalDifference.cs" />
     <Compile Include="MiniMaxSum.cs" />
