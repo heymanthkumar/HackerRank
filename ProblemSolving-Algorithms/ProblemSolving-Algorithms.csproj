@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="AVeryBigSum.cs" />
     <Compile Include="BirthdayCakeCandles.cs" />
+    <Compile Include="CamelCase.cs" />
     <Compile Include="CompareTheTriplets.cs" />
     <Compile Include="DiagonalDifference.cs" />
     <Compile Include="MiniMaxSum.cs" />
