@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>ProblemSolving_Algorithms.PlusMinus</StartupObject>
+    <StartupObject>ProblemSolving_Algorithms.Grading</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,6 +51,7 @@
     <Compile Include="CamelCase.cs" />
     <Compile Include="CompareTheTriplets.cs" />
     <Compile Include="DiagonalDifference.cs" />
+    <Compile Include="Grading.cs" />
     <Compile Include="MiniMaxSum.cs" />
     <Compile Include="PlusMinus.cs" />
     <Compile Include="SimpleArraySum.cs" />
