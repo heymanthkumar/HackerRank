@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppleAndOrange.cs" />
     <Compile Include="AVeryBigSum.cs" />
     <Compile Include="BirthdayCakeCandles.cs" />
     <Compile Include="CamelCase.cs" />
