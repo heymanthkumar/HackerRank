@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace ProblemSolving_Algorithms
 {
+    // https://www.hackerrank.com/challenges/grading/
     internal class Grading
     {
         public static List<int> gradingStudents(List<int> grades)
